@@ -1,5 +1,5 @@
 # TimeTimer
-TimeTimer!
+
 TimeTimer, which is a timer (PC) that allows you to run it conveniently in your daily life. Are you still annoyed that LiveSplit won't work, yes, if you're a speedrunner who challenges speedrunning, then you're definitely familiar with LiveSplit, and for new speedrunners who want to challenge speedrunning but can't use LiveSplit, this timer solves the problem of not using LiveSplit to practice in training. Maybe you can try this software.
 1. It is convenient and fast, and it is very friendly to novices;
 2. He is very streamlined and has a simple interface;
