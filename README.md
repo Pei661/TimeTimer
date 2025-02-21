@@ -6,7 +6,7 @@ TimeTimer, which is a timer (PC) that allows you to run it conveniently in your 
 3. It's a top window, of course, this top window also has a defect, that is, the game can't be full-screen, otherwise the software won't be displayed (so it's still repairing bugs)
 4. It is written in Python.
 So, if you're still stopping your speedrunning practice because you can't use LiveSplit, try this timer.
-In addition, the above English is machine translated, so there may be misunderstandings...
+In addition, the above English is machine translated, so there may be misunderstandings...<br/>
 TimeTimer，这是一款能够让你方便日常生活中运行的计时器（PC）。你是否还在因为LiveSplit不会用而感到烦恼，没错，如果你是一名挑战速通的玩家，那么你对LiveSplit绝对很熟悉，对于想挑战速通但碍于不会用LiveSplit的速通新玩家，这款计时器，解决了平时训练中不会用LiveSplit来练习。或许你可以尝试这款软件。
 1、它方便快捷，对于新手来说非常的友好；
 2、他非常的精简，界面简单；
